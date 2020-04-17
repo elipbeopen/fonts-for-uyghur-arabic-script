@@ -1,0 +1,13 @@
+{
+  "name": "ttf_convert2_woff2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "ttf2woff2": "node ./conver.js"
+  },
+  "devDependencies": {
+    "ttf2woff2": "^3.0.0"
+  }
+}
