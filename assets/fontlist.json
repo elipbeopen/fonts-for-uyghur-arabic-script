@@ -1,0 +1,362 @@
+{
+  "UKIJ3D": {
+    "ttf": "./fonts/UKIJ3D/UKIJ3D.ttf",
+    "woff2": "./fonts/UKIJ3D/UKIJ3D.woff2"
+  },
+  "UKIJBasma": {
+    "ttf": "./fonts/UKIJBasma/UKIJBasma.ttf",
+    "woff2": "./fonts/UKIJBasma/UKIJBasma.woff2"
+  },
+  "UKIJBom": {
+    "ttf": "./fonts/UKIJBom/UKIJBom.ttf",
+    "woff2": "./fonts/UKIJBom/UKIJBom.woff2"
+  },
+  "UKIJCJK": {
+    "ttf": "./fonts/UKIJCJK/UKIJCJK.ttf",
+    "woff2": "./fonts/UKIJCJK/UKIJCJK.woff2"
+  },
+  "UKIJChechek": {
+    "ttf": "./fonts/UKIJChechek/UKIJChechek.ttf",
+    "woff2": "./fonts/UKIJChechek/UKIJChechek.woff2"
+  },
+  "UKIJChiK": {
+    "ttf": "./fonts/UKIJChiK/UKIJChiK.ttf",
+    "woff2": "./fonts/UKIJChiK/UKIJChiK.woff2"
+  },
+  "UKIJDi": {
+    "ttf": "./fonts/UKIJDi/UKIJDi.ttf",
+    "woff2": "./fonts/UKIJDi/UKIJDi.woff2"
+  },
+  "UKIJDiK": {
+    "ttf": "./fonts/UKIJDiK/UKIJDiK.ttf",
+    "woff2": "./fonts/UKIJDiK/UKIJDiK.woff2"
+  },
+  "UKIJDiT": {
+    "ttf": "./fonts/UKIJDiT/UKIJDiT.ttf",
+    "woff2": "./fonts/UKIJDiT/UKIJDiT.woff2"
+  },
+  "UKIJDiY": {
+    "ttf": "./fonts/UKIJDiY/UKIJDiY.ttf",
+    "woff2": "./fonts/UKIJDiY/UKIJDiY.woff2"
+  },
+  "UKIJEkran": {
+    "ttf": "./fonts/UKIJEkran/UKIJEkran.ttf",
+    "woff2": "./fonts/UKIJEkran/UKIJEkran.woff2"
+  },
+  "UKIJElipbe-b": {
+    "ttf": "./fonts/UKIJElipbe-b/UKIJElipbe-b.ttf",
+    "woff2": "./fonts/UKIJElipbe-b/UKIJElipbe-b.woff2"
+  },
+  "UKIJElipbe": {
+    "ttf": "./fonts/UKIJElipbe/UKIJElipbe.ttf",
+    "woff2": "./fonts/UKIJElipbe/UKIJElipbe.woff2"
+  },
+  "UKIJElipbeCh-b": {
+    "ttf": "./fonts/UKIJElipbeCh-b/UKIJElipbeCh-b.ttf",
+    "woff2": "./fonts/UKIJElipbeCh-b/UKIJElipbeCh-b.woff2"
+  },
+  "UKIJElipbeCh": {
+    "ttf": "./fonts/UKIJElipbeCh/UKIJElipbeCh.ttf",
+    "woff2": "./fonts/UKIJElipbeCh/UKIJElipbeCh.woff2"
+  },
+  "UKIJEs": {
+    "ttf": "./fonts/UKIJEs/UKIJEs.ttf",
+    "woff2": "./fonts/UKIJEs/UKIJEs.woff2"
+  },
+  "UKIJEsBold": {
+    "ttf": "./fonts/UKIJEsBold/UKIJEsBold.ttf",
+    "woff2": "./fonts/UKIJEsBold/UKIJEsBold.woff2"
+  },
+  "UKIJEsC": {
+    "ttf": "./fonts/UKIJEsC/UKIJEsC.ttf",
+    "woff2": "./fonts/UKIJEsC/UKIJEsC.woff2"
+  },
+  "UKIJEsN": {
+    "ttf": "./fonts/UKIJEsN/UKIJEsN.ttf",
+    "woff2": "./fonts/UKIJEsN/UKIJEsN.woff2"
+  },
+  "UKIJEsQ": {
+    "ttf": "./fonts/UKIJEsQ/UKIJEsQ.ttf",
+    "woff2": "./fonts/UKIJEsQ/UKIJEsQ.woff2"
+  },
+  "UKIJEsT": {
+    "ttf": "./fonts/UKIJEsT/UKIJEsT.ttf",
+    "woff2": "./fonts/UKIJEsT/UKIJEsT.woff2"
+  },
+  "UKIJImaret": {
+    "ttf": "./fonts/UKIJImaret/UKIJImaret.ttf",
+    "woff2": "./fonts/UKIJImaret/UKIJImaret.woff2"
+  },
+  "UKIJInichke": {
+    "ttf": "./fonts/UKIJInichke/UKIJInichke.ttf",
+    "woff2": "./fonts/UKIJInichke/UKIJInichke.woff2"
+  },
+  "UKIJInichkeb": {
+    "ttf": "./fonts/UKIJInichkeb/UKIJInichkeb.ttf",
+    "woff2": "./fonts/UKIJInichkeb/UKIJInichkeb.woff2"
+  },
+  "UKIJJe": {
+    "ttf": "./fonts/UKIJJe/UKIJJe.ttf",
+    "woff2": "./fonts/UKIJJe/UKIJJe.woff2"
+  },
+  "UKIJJunu": {
+    "ttf": "./fonts/UKIJJunu/UKIJJunu.ttf",
+    "woff2": "./fonts/UKIJJunu/UKIJJunu.woff2"
+  },
+  "UKIJKa": {
+    "ttf": "./fonts/UKIJKa/UKIJKa.ttf",
+    "woff2": "./fonts/UKIJKa/UKIJKa.woff2"
+  },
+  "UKIJKa3D-b": {
+    "ttf": "./fonts/UKIJKa3D-b/UKIJKa3D-b.ttf",
+    "woff2": "./fonts/UKIJKa3D-b/UKIJKa3D-b.woff2"
+  },
+  "UKIJKa3D": {
+    "ttf": "./fonts/UKIJKa3D/UKIJKa3D.ttf",
+    "woff2": "./fonts/UKIJKa3D/UKIJKa3D.woff2"
+  },
+  "UKIJKesme-b": {
+    "ttf": "./fonts/UKIJKesme-b/UKIJKesme-b.ttf",
+    "woff2": "./fonts/UKIJKesme-b/UKIJKesme-b.woff2"
+  },
+  "UKIJKesme": {
+    "ttf": "./fonts/UKIJKesme/UKIJKesme.ttf",
+    "woff2": "./fonts/UKIJKesme/UKIJKesme.woff2"
+  },
+  "UKIJKesmeTuz-b": {
+    "ttf": "./fonts/UKIJKesmeTuz-b/UKIJKesmeTuz-b.ttf",
+    "woff2": "./fonts/UKIJKesmeTuz-b/UKIJKesmeTuz-b.woff2"
+  },
+  "UKIJKesmeTuz": {
+    "ttf": "./fonts/UKIJKesmeTuz/UKIJKesmeTuz.ttf",
+    "woff2": "./fonts/UKIJKesmeTuz/UKIJKesmeTuz.woff2"
+  },
+  "UKIJKu": {
+    "ttf": "./fonts/UKIJKu/UKIJKu.ttf",
+    "woff2": "./fonts/UKIJKu/UKIJKu.woff2"
+  },
+  "UKIJKu3D": {
+    "ttf": "./fonts/UKIJKu3D/UKIJKu3D.ttf",
+    "woff2": "./fonts/UKIJKu3D/UKIJKu3D.woff2"
+  },
+  "UKIJKuChi": {
+    "ttf": "./fonts/UKIJKuChi/UKIJKuChi.ttf",
+    "woff2": "./fonts/UKIJKuChi/UKIJKuChi.woff2"
+  },
+  "UKIJKuG": {
+    "ttf": "./fonts/UKIJKuG/UKIJKuG.ttf",
+    "woff2": "./fonts/UKIJKuG/UKIJKuG.woff2"
+  },
+  "UKIJKuKa": {
+    "ttf": "./fonts/UKIJKuKa/UKIJKuKa.ttf",
+    "woff2": "./fonts/UKIJKuKa/UKIJKuKa.woff2"
+  },
+  "UKIJKuT": {
+    "ttf": "./fonts/UKIJKuT/UKIJKuT.ttf",
+    "woff2": "./fonts/UKIJKuT/UKIJKuT.woff2"
+  },
+  "UKIJKuU": {
+    "ttf": "./fonts/UKIJKuU/UKIJKuU.ttf",
+    "woff2": "./fonts/UKIJKuU/UKIJKuU.woff2"
+  },
+  "UKIJKuY": {
+    "ttf": "./fonts/UKIJKuY/UKIJKuY.ttf",
+    "woff2": "./fonts/UKIJKuY/UKIJKuY.woff2"
+  },
+  "UKIJKuYB": {
+    "ttf": "./fonts/UKIJKuYB/UKIJKuYB.ttf",
+    "woff2": "./fonts/UKIJKuYB/UKIJKuYB.woff2"
+  },
+  "UKIJKuYol": {
+    "ttf": "./fonts/UKIJKuYol/UKIJKuYol.ttf",
+    "woff2": "./fonts/UKIJKuYol/UKIJKuYol.woff2"
+  },
+  "UKIJMe": {
+    "ttf": "./fonts/UKIJMe/UKIJMe.ttf",
+    "woff2": "./fonts/UKIJMe/UKIJMe.woff2"
+  },
+  "UKIJMejT": {
+    "ttf": "./fonts/UKIJMejT/UKIJMejT.ttf",
+    "woff2": "./fonts/UKIJMejT/UKIJMejT.woff2"
+  },
+  "UKIJMejn": {
+    "ttf": "./fonts/UKIJMejn/UKIJMejn.ttf",
+    "woff2": "./fonts/UKIJMejn/UKIJMejn.woff2"
+  },
+  "UKIJMoyQ": {
+    "ttf": "./fonts/UKIJMoyQ/UKIJMoyQ.ttf",
+    "woff2": "./fonts/UKIJMoyQ/UKIJMoyQ.woff2"
+  },
+  "UKIJNsq": {
+    "ttf": "./fonts/UKIJNsq/UKIJNsq.ttf",
+    "woff2": "./fonts/UKIJNsq/UKIJNsq.woff2"
+  },
+  "UKIJNsqZ": {
+    "ttf": "./fonts/UKIJNsqZ/UKIJNsqZ.ttf",
+    "woff2": "./fonts/UKIJNsqZ/UKIJNsqZ.woff2"
+  },
+  "UKIJNsqZB": {
+    "ttf": "./fonts/UKIJNsqZB/UKIJNsqZB.ttf",
+    "woff2": "./fonts/UKIJNsqZB/UKIJNsqZB.woff2"
+  },
+  "UKIJNsqb": {
+    "ttf": "./fonts/UKIJNsqb/UKIJNsqb.ttf",
+    "woff2": "./fonts/UKIJNsqb/UKIJNsqb.woff2"
+  },
+  "UKIJOrqun_B": {
+    "ttf": "./fonts/UKIJOrqun_B/UKIJOrqun_B.ttf",
+    "woff2": "./fonts/UKIJOrqun_B/UKIJOrqun_B.woff2"
+  },
+  "UKIJOrqun_Y": {
+    "ttf": "./fonts/UKIJOrqun_Y/UKIJOrqun_Y.ttf",
+    "woff2": "./fonts/UKIJOrqun_Y/UKIJOrqun_Y.woff2"
+  },
+  "UKIJOrxun": {
+    "ttf": "./fonts/UKIJOrxun/UKIJOrxun.ttf",
+    "woff2": "./fonts/UKIJOrxun/UKIJOrxun.woff2"
+  },
+  "UKIJQara-b": {
+    "ttf": "./fonts/UKIJQara-b/UKIJQara-b.ttf",
+    "woff2": "./fonts/UKIJQara-b/UKIJQara-b.woff2"
+  },
+  "UKIJQara": {
+    "ttf": "./fonts/UKIJQara/UKIJQara.ttf",
+    "woff2": "./fonts/UKIJQara/UKIJQara.woff2"
+  },
+  "UKIJQol_Tez": {
+    "ttf": "./fonts/UKIJQol_Tez/UKIJQol_Tez.ttf",
+    "woff2": "./fonts/UKIJQol_Tez/UKIJQol_Tez.woff2"
+  },
+  "UKIJQol_Tuz": {
+    "ttf": "./fonts/UKIJQol_Tuz/UKIJQol_Tuz.ttf",
+    "woff2": "./fonts/UKIJQol_Tuz/UKIJQol_Tuz.woff2"
+  },
+  "UKIJQol_Yantu": {
+    "ttf": "./fonts/UKIJQol_Yantu/UKIJQol_Yantu.ttf",
+    "woff2": "./fonts/UKIJQol_Yantu/UKIJQol_Yantu.woff2"
+  },
+  "UKIJQolyazma": {
+    "ttf": "./fonts/UKIJQolyazma/UKIJQolyazma.ttf",
+    "woff2": "./fonts/UKIJQolyazma/UKIJQolyazma.woff2"
+  },
+  "UKIJRu": {
+    "ttf": "./fonts/UKIJRu/UKIJRu.ttf",
+    "woff2": "./fonts/UKIJRu/UKIJRu.woff2"
+  },
+  "UKIJSaet": {
+    "ttf": "./fonts/UKIJSaet/UKIJSaet.ttf",
+    "woff2": "./fonts/UKIJSaet/UKIJSaet.woff2"
+  },
+  "UKIJSls": {
+    "ttf": "./fonts/UKIJSls/UKIJSls.ttf",
+    "woff2": "./fonts/UKIJSls/UKIJSls.woff2"
+  },
+  "UKIJSlsBold": {
+    "ttf": "./fonts/UKIJSlsBold/UKIJSlsBold.ttf",
+    "woff2": "./fonts/UKIJSlsBold/UKIJSlsBold.woff2"
+  },
+  "UKIJSlsTom": {
+    "ttf": "./fonts/UKIJSlsTom/UKIJSlsTom.ttf",
+    "woff2": "./fonts/UKIJSlsTom/UKIJSlsTom.woff2"
+  },
+  "UKIJTeng-b": {
+    "ttf": "./fonts/UKIJTeng-b/UKIJTeng-b.ttf",
+    "woff2": "./fonts/UKIJTeng-b/UKIJTeng-b.woff2"
+  },
+  "UKIJTeng": {
+    "ttf": "./fonts/UKIJTeng/UKIJTeng.ttf",
+    "woff2": "./fonts/UKIJTeng/UKIJTeng.woff2"
+  },
+  "UKIJTiken": {
+    "ttf": "./fonts/UKIJTiken/UKIJTiken.ttf",
+    "woff2": "./fonts/UKIJTiken/UKIJTiken.woff2"
+  },
+  "UKIJTitle": {
+    "ttf": "./fonts/UKIJTitle/UKIJTitle.ttf",
+    "woff2": "./fonts/UKIJTitle/UKIJTitle.woff2"
+  },
+  "UKIJTor": {
+    "ttf": "./fonts/UKIJTor/UKIJTor.ttf",
+    "woff2": "./fonts/UKIJTor/UKIJTor.woff2"
+  },
+  "UKIJTuT": {
+    "ttf": "./fonts/UKIJTuT/UKIJTuT.ttf",
+    "woff2": "./fonts/UKIJTuT/UKIJTuT.woff2"
+  },
+  "UKIJTughra": {
+    "ttf": "./fonts/UKIJTughra/UKIJTughra.ttf",
+    "woff2": "./fonts/UKIJTughra/UKIJTughra.woff2"
+  },
+  "UKIJTuz": {
+    "ttf": "./fonts/UKIJTuz/UKIJTuz.ttf",
+    "woff2": "./fonts/UKIJTuz/UKIJTuz.woff2"
+  },
+  "UKIJTuzB": {
+    "ttf": "./fonts/UKIJTuzB/UKIJTuzB.ttf",
+    "woff2": "./fonts/UKIJTuzB/UKIJTuzB.woff2"
+  },
+  "UKIJTuzBB": {
+    "ttf": "./fonts/UKIJTuzBB/UKIJTuzBB.ttf",
+    "woff2": "./fonts/UKIJTuzBB/UKIJTuzBB.woff2"
+  },
+  "UKIJTuzBold": {
+    "ttf": "./fonts/UKIJTuzBold/UKIJTuzBold.ttf",
+    "woff2": "./fonts/UKIJTuzBold/UKIJTuzBold.woff2"
+  },
+  "UKIJTuzG": {
+    "ttf": "./fonts/UKIJTuzG/UKIJTuzG.ttf",
+    "woff2": "./fonts/UKIJTuzG/UKIJTuzG.woff2"
+  },
+  "UKIJTuzGB": {
+    "ttf": "./fonts/UKIJTuzGB/UKIJTuzGB.ttf",
+    "woff2": "./fonts/UKIJTuzGB/UKIJTuzGB.woff2"
+  },
+  "UKIJTuzK": {
+    "ttf": "./fonts/UKIJTuzK/UKIJTuzK.ttf",
+    "woff2": "./fonts/UKIJTuzK/UKIJTuzK.woff2"
+  },
+  "UKIJTuzKB": {
+    "ttf": "./fonts/UKIJTuzKB/UKIJTuzKB.ttf",
+    "woff2": "./fonts/UKIJTuzKB/UKIJTuzKB.woff2"
+  },
+  "UKIJTuzQ": {
+    "ttf": "./fonts/UKIJTuzQ/UKIJTuzQ.ttf",
+    "woff2": "./fonts/UKIJTuzQ/UKIJTuzQ.woff2"
+  },
+  "UKIJTuzQB": {
+    "ttf": "./fonts/UKIJTuzQB/UKIJTuzQB.ttf",
+    "woff2": "./fonts/UKIJTuzQB/UKIJTuzQB.woff2"
+  },
+  "UKIJTzNeqish": {
+    "ttf": "./fonts/UKIJTzNeqish/UKIJTzNeqish.ttf",
+    "woff2": "./fonts/UKIJTzNeqish/UKIJTzNeqish.woff2"
+  },
+  "UKIJTzTr": {
+    "ttf": "./fonts/UKIJTzTr/UKIJTzTr.ttf",
+    "woff2": "./fonts/UKIJTzTr/UKIJTzTr.woff2"
+  },
+  "UKIJTzTrBold": {
+    "ttf": "./fonts/UKIJTzTrBold/UKIJTzTrBold.ttf",
+    "woff2": "./fonts/UKIJTzTrBold/UKIJTzTrBold.woff2"
+  },
+  "UKIJZilwa": {
+    "ttf": "./fonts/UKIJZilwa/UKIJZilwa.ttf",
+    "woff2": "./fonts/UKIJZilwa/UKIJZilwa.woff2"
+  },
+  "UKIJ_MacBasma": {
+    "ttf": "./fonts/UKIJ_MacBasma/UKIJ_MacBasma.ttf",
+    "woff2": "./fonts/UKIJ_MacBasma/UKIJ_MacBasma.woff2"
+  },
+  "UKIJ_MacBasmaBold": {
+    "ttf": "./fonts/UKIJ_MacBasmaBold/UKIJ_MacBasmaBold.ttf",
+    "woff2": "./fonts/UKIJ_MacBasmaBold/UKIJ_MacBasmaBold.woff2"
+  },
+  "UKIJ_MacEkran": {
+    "ttf": "./fonts/UKIJ_MacEkran/UKIJ_MacEkran.ttf",
+    "woff2": "./fonts/UKIJ_MacEkran/UKIJ_MacEkran.woff2"
+  },
+  "UKIJ_MacEkranBold": {
+    "ttf": "./fonts/UKIJ_MacEkranBold/UKIJ_MacEkranBold.ttf",
+    "woff2": "./fonts/UKIJ_MacEkranBold/UKIJ_MacEkranBold.woff2"
+  }
+}
