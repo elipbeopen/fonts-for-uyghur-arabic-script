@@ -1,362 +1,2101 @@
 {
-  "UKIJ3D": {
-    "ttf": "./fonts/UKIJ3D/UKIJ3D.ttf",
-    "woff2": "./fonts/UKIJ3D/UKIJ3D.woff2"
-  },
-  "UKIJBasma": {
-    "ttf": "./fonts/UKIJBasma/UKIJBasma.ttf",
-    "woff2": "./fonts/UKIJBasma/UKIJBasma.woff2"
-  },
-  "UKIJBom": {
-    "ttf": "./fonts/UKIJBom/UKIJBom.ttf",
-    "woff2": "./fonts/UKIJBom/UKIJBom.woff2"
-  },
-  "UKIJCJK": {
-    "ttf": "./fonts/UKIJCJK/UKIJCJK.ttf",
-    "woff2": "./fonts/UKIJCJK/UKIJCJK.woff2"
-  },
-  "UKIJChechek": {
-    "ttf": "./fonts/UKIJChechek/UKIJChechek.ttf",
-    "woff2": "./fonts/UKIJChechek/UKIJChechek.woff2"
-  },
-  "UKIJChiK": {
-    "ttf": "./fonts/UKIJChiK/UKIJChiK.ttf",
-    "woff2": "./fonts/UKIJChiK/UKIJChiK.woff2"
-  },
-  "UKIJDi": {
-    "ttf": "./fonts/UKIJDi/UKIJDi.ttf",
-    "woff2": "./fonts/UKIJDi/UKIJDi.woff2"
-  },
-  "UKIJDiK": {
-    "ttf": "./fonts/UKIJDiK/UKIJDiK.ttf",
-    "woff2": "./fonts/UKIJDiK/UKIJDiK.woff2"
-  },
-  "UKIJDiT": {
-    "ttf": "./fonts/UKIJDiT/UKIJDiT.ttf",
-    "woff2": "./fonts/UKIJDiT/UKIJDiT.woff2"
-  },
-  "UKIJDiY": {
-    "ttf": "./fonts/UKIJDiY/UKIJDiY.ttf",
-    "woff2": "./fonts/UKIJDiY/UKIJDiY.woff2"
-  },
-  "UKIJEkran": {
-    "ttf": "./fonts/UKIJEkran/UKIJEkran.ttf",
-    "woff2": "./fonts/UKIJEkran/UKIJEkran.woff2"
-  },
-  "UKIJElipbe-b": {
-    "ttf": "./fonts/UKIJElipbe-b/UKIJElipbe-b.ttf",
-    "woff2": "./fonts/UKIJElipbe-b/UKIJElipbe-b.woff2"
-  },
-  "UKIJElipbe": {
-    "ttf": "./fonts/UKIJElipbe/UKIJElipbe.ttf",
-    "woff2": "./fonts/UKIJElipbe/UKIJElipbe.woff2"
-  },
-  "UKIJElipbeCh-b": {
-    "ttf": "./fonts/UKIJElipbeCh-b/UKIJElipbeCh-b.ttf",
-    "woff2": "./fonts/UKIJElipbeCh-b/UKIJElipbeCh-b.woff2"
-  },
-  "UKIJElipbeCh": {
-    "ttf": "./fonts/UKIJElipbeCh/UKIJElipbeCh.ttf",
-    "woff2": "./fonts/UKIJElipbeCh/UKIJElipbeCh.woff2"
-  },
-  "UKIJEs": {
-    "ttf": "./fonts/UKIJEs/UKIJEs.ttf",
-    "woff2": "./fonts/UKIJEs/UKIJEs.woff2"
-  },
-  "UKIJEsBold": {
-    "ttf": "./fonts/UKIJEsBold/UKIJEsBold.ttf",
-    "woff2": "./fonts/UKIJEsBold/UKIJEsBold.woff2"
-  },
-  "UKIJEsC": {
-    "ttf": "./fonts/UKIJEsC/UKIJEsC.ttf",
-    "woff2": "./fonts/UKIJEsC/UKIJEsC.woff2"
-  },
-  "UKIJEsN": {
-    "ttf": "./fonts/UKIJEsN/UKIJEsN.ttf",
-    "woff2": "./fonts/UKIJEsN/UKIJEsN.woff2"
-  },
-  "UKIJEsQ": {
-    "ttf": "./fonts/UKIJEsQ/UKIJEsQ.ttf",
-    "woff2": "./fonts/UKIJEsQ/UKIJEsQ.woff2"
-  },
-  "UKIJEsT": {
-    "ttf": "./fonts/UKIJEsT/UKIJEsT.ttf",
-    "woff2": "./fonts/UKIJEsT/UKIJEsT.woff2"
-  },
-  "UKIJImaret": {
-    "ttf": "./fonts/UKIJImaret/UKIJImaret.ttf",
-    "woff2": "./fonts/UKIJImaret/UKIJImaret.woff2"
-  },
-  "UKIJInichke": {
-    "ttf": "./fonts/UKIJInichke/UKIJInichke.ttf",
-    "woff2": "./fonts/UKIJInichke/UKIJInichke.woff2"
-  },
-  "UKIJInichkeb": {
-    "ttf": "./fonts/UKIJInichkeb/UKIJInichkeb.ttf",
-    "woff2": "./fonts/UKIJInichkeb/UKIJInichkeb.woff2"
-  },
-  "UKIJJe": {
-    "ttf": "./fonts/UKIJJe/UKIJJe.ttf",
-    "woff2": "./fonts/UKIJJe/UKIJJe.woff2"
-  },
-  "UKIJJunu": {
-    "ttf": "./fonts/UKIJJunu/UKIJJunu.ttf",
-    "woff2": "./fonts/UKIJJunu/UKIJJunu.woff2"
-  },
-  "UKIJKa": {
-    "ttf": "./fonts/UKIJKa/UKIJKa.ttf",
-    "woff2": "./fonts/UKIJKa/UKIJKa.woff2"
-  },
-  "UKIJKa3D-b": {
-    "ttf": "./fonts/UKIJKa3D-b/UKIJKa3D-b.ttf",
-    "woff2": "./fonts/UKIJKa3D-b/UKIJKa3D-b.woff2"
-  },
-  "UKIJKa3D": {
-    "ttf": "./fonts/UKIJKa3D/UKIJKa3D.ttf",
-    "woff2": "./fonts/UKIJKa3D/UKIJKa3D.woff2"
-  },
-  "UKIJKesme-b": {
-    "ttf": "./fonts/UKIJKesme-b/UKIJKesme-b.ttf",
-    "woff2": "./fonts/UKIJKesme-b/UKIJKesme-b.woff2"
-  },
-  "UKIJKesme": {
-    "ttf": "./fonts/UKIJKesme/UKIJKesme.ttf",
-    "woff2": "./fonts/UKIJKesme/UKIJKesme.woff2"
-  },
-  "UKIJKesmeTuz-b": {
-    "ttf": "./fonts/UKIJKesmeTuz-b/UKIJKesmeTuz-b.ttf",
-    "woff2": "./fonts/UKIJKesmeTuz-b/UKIJKesmeTuz-b.woff2"
-  },
-  "UKIJKesmeTuz": {
-    "ttf": "./fonts/UKIJKesmeTuz/UKIJKesmeTuz.ttf",
-    "woff2": "./fonts/UKIJKesmeTuz/UKIJKesmeTuz.woff2"
-  },
-  "UKIJKu": {
-    "ttf": "./fonts/UKIJKu/UKIJKu.ttf",
-    "woff2": "./fonts/UKIJKu/UKIJKu.woff2"
-  },
-  "UKIJKu3D": {
-    "ttf": "./fonts/UKIJKu3D/UKIJKu3D.ttf",
-    "woff2": "./fonts/UKIJKu3D/UKIJKu3D.woff2"
-  },
-  "UKIJKuChi": {
-    "ttf": "./fonts/UKIJKuChi/UKIJKuChi.ttf",
-    "woff2": "./fonts/UKIJKuChi/UKIJKuChi.woff2"
-  },
-  "UKIJKuG": {
-    "ttf": "./fonts/UKIJKuG/UKIJKuG.ttf",
-    "woff2": "./fonts/UKIJKuG/UKIJKuG.woff2"
-  },
-  "UKIJKuKa": {
-    "ttf": "./fonts/UKIJKuKa/UKIJKuKa.ttf",
-    "woff2": "./fonts/UKIJKuKa/UKIJKuKa.woff2"
-  },
-  "UKIJKuT": {
-    "ttf": "./fonts/UKIJKuT/UKIJKuT.ttf",
-    "woff2": "./fonts/UKIJKuT/UKIJKuT.woff2"
-  },
-  "UKIJKuU": {
-    "ttf": "./fonts/UKIJKuU/UKIJKuU.ttf",
-    "woff2": "./fonts/UKIJKuU/UKIJKuU.woff2"
-  },
-  "UKIJKuY": {
-    "ttf": "./fonts/UKIJKuY/UKIJKuY.ttf",
-    "woff2": "./fonts/UKIJKuY/UKIJKuY.woff2"
-  },
-  "UKIJKuYB": {
-    "ttf": "./fonts/UKIJKuYB/UKIJKuYB.ttf",
-    "woff2": "./fonts/UKIJKuYB/UKIJKuYB.woff2"
-  },
-  "UKIJKuYol": {
-    "ttf": "./fonts/UKIJKuYol/UKIJKuYol.ttf",
-    "woff2": "./fonts/UKIJKuYol/UKIJKuYol.woff2"
-  },
-  "UKIJMe": {
-    "ttf": "./fonts/UKIJMe/UKIJMe.ttf",
-    "woff2": "./fonts/UKIJMe/UKIJMe.woff2"
-  },
-  "UKIJMejT": {
-    "ttf": "./fonts/UKIJMejT/UKIJMejT.ttf",
-    "woff2": "./fonts/UKIJMejT/UKIJMejT.woff2"
-  },
-  "UKIJMejn": {
-    "ttf": "./fonts/UKIJMejn/UKIJMejn.ttf",
-    "woff2": "./fonts/UKIJMejn/UKIJMejn.woff2"
-  },
-  "UKIJMoyQ": {
-    "ttf": "./fonts/UKIJMoyQ/UKIJMoyQ.ttf",
-    "woff2": "./fonts/UKIJMoyQ/UKIJMoyQ.woff2"
-  },
-  "UKIJNsq": {
-    "ttf": "./fonts/UKIJNsq/UKIJNsq.ttf",
-    "woff2": "./fonts/UKIJNsq/UKIJNsq.woff2"
-  },
-  "UKIJNsqZ": {
-    "ttf": "./fonts/UKIJNsqZ/UKIJNsqZ.ttf",
-    "woff2": "./fonts/UKIJNsqZ/UKIJNsqZ.woff2"
-  },
-  "UKIJNsqZB": {
-    "ttf": "./fonts/UKIJNsqZB/UKIJNsqZB.ttf",
-    "woff2": "./fonts/UKIJNsqZB/UKIJNsqZB.woff2"
-  },
-  "UKIJNsqb": {
-    "ttf": "./fonts/UKIJNsqb/UKIJNsqb.ttf",
-    "woff2": "./fonts/UKIJNsqb/UKIJNsqb.woff2"
-  },
-  "UKIJOrqun_B": {
-    "ttf": "./fonts/UKIJOrqun_B/UKIJOrqun_B.ttf",
-    "woff2": "./fonts/UKIJOrqun_B/UKIJOrqun_B.woff2"
-  },
-  "UKIJOrqun_Y": {
-    "ttf": "./fonts/UKIJOrqun_Y/UKIJOrqun_Y.ttf",
-    "woff2": "./fonts/UKIJOrqun_Y/UKIJOrqun_Y.woff2"
-  },
-  "UKIJOrxun": {
-    "ttf": "./fonts/UKIJOrxun/UKIJOrxun.ttf",
-    "woff2": "./fonts/UKIJOrxun/UKIJOrxun.woff2"
-  },
-  "UKIJQara-b": {
-    "ttf": "./fonts/UKIJQara-b/UKIJQara-b.ttf",
-    "woff2": "./fonts/UKIJQara-b/UKIJQara-b.woff2"
-  },
-  "UKIJQara": {
-    "ttf": "./fonts/UKIJQara/UKIJQara.ttf",
-    "woff2": "./fonts/UKIJQara/UKIJQara.woff2"
-  },
-  "UKIJQol_Tez": {
-    "ttf": "./fonts/UKIJQol_Tez/UKIJQol_Tez.ttf",
-    "woff2": "./fonts/UKIJQol_Tez/UKIJQol_Tez.woff2"
-  },
-  "UKIJQol_Tuz": {
-    "ttf": "./fonts/UKIJQol_Tuz/UKIJQol_Tuz.ttf",
-    "woff2": "./fonts/UKIJQol_Tuz/UKIJQol_Tuz.woff2"
-  },
-  "UKIJQol_Yantu": {
-    "ttf": "./fonts/UKIJQol_Yantu/UKIJQol_Yantu.ttf",
-    "woff2": "./fonts/UKIJQol_Yantu/UKIJQol_Yantu.woff2"
-  },
-  "UKIJQolyazma": {
-    "ttf": "./fonts/UKIJQolyazma/UKIJQolyazma.ttf",
-    "woff2": "./fonts/UKIJQolyazma/UKIJQolyazma.woff2"
-  },
-  "UKIJRu": {
-    "ttf": "./fonts/UKIJRu/UKIJRu.ttf",
-    "woff2": "./fonts/UKIJRu/UKIJRu.woff2"
-  },
-  "UKIJSaet": {
-    "ttf": "./fonts/UKIJSaet/UKIJSaet.ttf",
-    "woff2": "./fonts/UKIJSaet/UKIJSaet.woff2"
-  },
-  "UKIJSls": {
-    "ttf": "./fonts/UKIJSls/UKIJSls.ttf",
-    "woff2": "./fonts/UKIJSls/UKIJSls.woff2"
-  },
-  "UKIJSlsBold": {
-    "ttf": "./fonts/UKIJSlsBold/UKIJSlsBold.ttf",
-    "woff2": "./fonts/UKIJSlsBold/UKIJSlsBold.woff2"
-  },
-  "UKIJSlsTom": {
-    "ttf": "./fonts/UKIJSlsTom/UKIJSlsTom.ttf",
-    "woff2": "./fonts/UKIJSlsTom/UKIJSlsTom.woff2"
-  },
-  "UKIJTeng-b": {
-    "ttf": "./fonts/UKIJTeng-b/UKIJTeng-b.ttf",
-    "woff2": "./fonts/UKIJTeng-b/UKIJTeng-b.woff2"
-  },
-  "UKIJTeng": {
-    "ttf": "./fonts/UKIJTeng/UKIJTeng.ttf",
-    "woff2": "./fonts/UKIJTeng/UKIJTeng.woff2"
-  },
-  "UKIJTiken": {
-    "ttf": "./fonts/UKIJTiken/UKIJTiken.ttf",
-    "woff2": "./fonts/UKIJTiken/UKIJTiken.woff2"
-  },
-  "UKIJTitle": {
-    "ttf": "./fonts/UKIJTitle/UKIJTitle.ttf",
-    "woff2": "./fonts/UKIJTitle/UKIJTitle.woff2"
-  },
-  "UKIJTor": {
-    "ttf": "./fonts/UKIJTor/UKIJTor.ttf",
-    "woff2": "./fonts/UKIJTor/UKIJTor.woff2"
-  },
-  "UKIJTuT": {
-    "ttf": "./fonts/UKIJTuT/UKIJTuT.ttf",
-    "woff2": "./fonts/UKIJTuT/UKIJTuT.woff2"
-  },
-  "UKIJTughra": {
-    "ttf": "./fonts/UKIJTughra/UKIJTughra.ttf",
-    "woff2": "./fonts/UKIJTughra/UKIJTughra.woff2"
-  },
-  "UKIJTuz": {
-    "ttf": "./fonts/UKIJTuz/UKIJTuz.ttf",
-    "woff2": "./fonts/UKIJTuz/UKIJTuz.woff2"
-  },
-  "UKIJTuzB": {
-    "ttf": "./fonts/UKIJTuzB/UKIJTuzB.ttf",
-    "woff2": "./fonts/UKIJTuzB/UKIJTuzB.woff2"
-  },
-  "UKIJTuzBB": {
-    "ttf": "./fonts/UKIJTuzBB/UKIJTuzBB.ttf",
-    "woff2": "./fonts/UKIJTuzBB/UKIJTuzBB.woff2"
-  },
-  "UKIJTuzBold": {
-    "ttf": "./fonts/UKIJTuzBold/UKIJTuzBold.ttf",
-    "woff2": "./fonts/UKIJTuzBold/UKIJTuzBold.woff2"
-  },
-  "UKIJTuzG": {
-    "ttf": "./fonts/UKIJTuzG/UKIJTuzG.ttf",
-    "woff2": "./fonts/UKIJTuzG/UKIJTuzG.woff2"
-  },
-  "UKIJTuzGB": {
-    "ttf": "./fonts/UKIJTuzGB/UKIJTuzGB.ttf",
-    "woff2": "./fonts/UKIJTuzGB/UKIJTuzGB.woff2"
-  },
-  "UKIJTuzK": {
-    "ttf": "./fonts/UKIJTuzK/UKIJTuzK.ttf",
-    "woff2": "./fonts/UKIJTuzK/UKIJTuzK.woff2"
-  },
-  "UKIJTuzKB": {
-    "ttf": "./fonts/UKIJTuzKB/UKIJTuzKB.ttf",
-    "woff2": "./fonts/UKIJTuzKB/UKIJTuzKB.woff2"
-  },
-  "UKIJTuzQ": {
-    "ttf": "./fonts/UKIJTuzQ/UKIJTuzQ.ttf",
-    "woff2": "./fonts/UKIJTuzQ/UKIJTuzQ.woff2"
-  },
-  "UKIJTuzQB": {
-    "ttf": "./fonts/UKIJTuzQB/UKIJTuzQB.ttf",
-    "woff2": "./fonts/UKIJTuzQB/UKIJTuzQB.woff2"
-  },
-  "UKIJTzNeqish": {
-    "ttf": "./fonts/UKIJTzNeqish/UKIJTzNeqish.ttf",
-    "woff2": "./fonts/UKIJTzNeqish/UKIJTzNeqish.woff2"
-  },
-  "UKIJTzTr": {
-    "ttf": "./fonts/UKIJTzTr/UKIJTzTr.ttf",
-    "woff2": "./fonts/UKIJTzTr/UKIJTzTr.woff2"
-  },
-  "UKIJTzTrBold": {
-    "ttf": "./fonts/UKIJTzTrBold/UKIJTzTrBold.ttf",
-    "woff2": "./fonts/UKIJTzTrBold/UKIJTzTrBold.woff2"
-  },
-  "UKIJZilwa": {
-    "ttf": "./fonts/UKIJZilwa/UKIJZilwa.ttf",
-    "woff2": "./fonts/UKIJZilwa/UKIJZilwa.woff2"
-  },
-  "UKIJ_MacBasma": {
-    "ttf": "./fonts/UKIJ_MacBasma/UKIJ_MacBasma.ttf",
-    "woff2": "./fonts/UKIJ_MacBasma/UKIJ_MacBasma.woff2"
-  },
-  "UKIJ_MacBasmaBold": {
-    "ttf": "./fonts/UKIJ_MacBasmaBold/UKIJ_MacBasmaBold.ttf",
-    "woff2": "./fonts/UKIJ_MacBasmaBold/UKIJ_MacBasmaBold.woff2"
-  },
-  "UKIJ_MacEkran": {
-    "ttf": "./fonts/UKIJ_MacEkran/UKIJ_MacEkran.ttf",
-    "woff2": "./fonts/UKIJ_MacEkran/UKIJ_MacEkran.woff2"
-  },
-  "UKIJ_MacEkranBold": {
-    "ttf": "./fonts/UKIJ_MacEkranBold/UKIJ_MacEkranBold.ttf",
-    "woff2": "./fonts/UKIJ_MacEkranBold/UKIJ_MacEkranBold.woff2"
+  "UKIJ3D_Regular": {
+    "ttf": "fonts/UKIJ3D_Regular/UKIJ3D_Regular.ttf",
+    "woff2": "fonts/UKIJ3D_Regular/UKIJ3D_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ 3D" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ 3D:Version 3.00" },
+      "fullName": { "en": "UKIJ 3D" },
+      "version": { "en": "Version 3.00 November 8, 2010" },
+      "postScriptName": { "en": "UKIJ3D" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Adiljan Abliz (Uchqur)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "uqkur@126.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJBasma_Regular": {
+    "ttf": "fonts/UKIJBasma_Regular/UKIJBasma_Regular.ttf",
+    "woff2": "fonts/UKIJBasma_Regular/UKIJBasma_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Basma" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Basma:Version 3.00" },
+      "fullName": { "en": "UKIJ Basma" },
+      "version": { "en": "Version 3.00 November 8, 2010" },
+      "postScriptName": { "en": "UKIJBasma" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": {
+        "en": "Copyright (c) 2002 by Waris ABDUKERIM JANBAZ. Free Distributed And All Rights Reserved. Oyghanuyghur@yahoo.com"
+      },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "oyghanuyghur@yahoo.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJBom_Regular": {
+    "ttf": "fonts/UKIJBom_Regular/UKIJBom_Regular.ttf",
+    "woff2": "fonts/UKIJBom_Regular/UKIJBom_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Bom" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Bom:Version 3.00" },
+      "fullName": { "en": "UKIJ Bom" },
+      "version": { "en": "Version 3.00 November 13, 2010" },
+      "postScriptName": { "en": "UKIJBom" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursun Sultan" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJCJK_Regular": {
+    "ttf": "fonts/UKIJCJK_Regular/UKIJCJK_Regular.ttf",
+    "woff2": "fonts/UKIJCJK_Regular/UKIJCJK_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ CJK" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ CJK:Version 3.00" },
+      "fullName": { "en": "UKIJ CJK" },
+      "version": { "en": "Version 3.00 November 5, 2010" },
+      "postScriptName": { "en": "UKIJCJK" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursun Sultan" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJChechek_Regular": {
+    "ttf": "fonts/UKIJChechek_Regular/UKIJChechek_Regular.ttf",
+    "woff2": "fonts/UKIJChechek_Regular/UKIJChechek_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Chechek" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Chechek:Version 3.00" },
+      "fullName": { "en": "UKIJ Chechek" },
+      "version": { "en": "Version 3.00 November 13, 2010" },
+      "postScriptName": { "en": "UKIJChechek" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursun Sultan" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJChiwerKesme_Regular": {
+    "ttf": "fonts/UKIJChiwerKesme_Regular/UKIJChiwerKesme_Regular.ttf",
+    "woff2": "fonts/UKIJChiwerKesme_Regular/UKIJChiwerKesme_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Chiwer Kesme" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Chiwer Kesme:Version 3.00" },
+      "fullName": { "en": "UKIJ Chiwer Kesme" },
+      "version": { "en": "Version 3.00 November 8, 2010" },
+      "postScriptName": { "en": "UKIJChiwerKesme" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Xoten Chiwer Qol" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJDiwani_Regular": {
+    "ttf": "fonts/UKIJDiwani_Regular/UKIJDiwani_Regular.ttf",
+    "woff2": "fonts/UKIJDiwani_Regular/UKIJDiwani_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Diwani" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Diwani:Version 3.00" },
+      "fullName": { "en": "UKIJ Diwani" },
+      "version": { "en": "Version 3.00 November 8, 2010" },
+      "postScriptName": { "en": "UKIJDiwani" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Adiljan Abliz (Uchqur)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "uqkur@126.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJDiwaniKawak_Regular": {
+    "ttf": "fonts/UKIJDiwaniKawak_Regular/UKIJDiwaniKawak_Regular.ttf",
+    "woff2": "fonts/UKIJDiwaniKawak_Regular/UKIJDiwaniKawak_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Diwani Kawak" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Diwani Kawak:Version 3.00" },
+      "fullName": { "en": "UKIJ Diwani Kawak" },
+      "version": { "en": "Version 3.00 November 10, 2010" },
+      "postScriptName": { "en": "UKIJDiwaniKawak" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursunjan Sultan" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJDiwaniTom_Regular": {
+    "ttf": "fonts/UKIJDiwaniTom_Regular/UKIJDiwaniTom_Regular.ttf",
+    "woff2": "fonts/UKIJDiwaniTom_Regular/UKIJDiwaniTom_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Diwani Tom" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Diwani Tom:Version 3.00" },
+      "fullName": { "en": "UKIJ Diwani Tom" },
+      "version": { "en": "Version 3.00 November 4, 2010" },
+      "postScriptName": { "en": "UKIJDiwaniTom" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursunjan Sultan (alp)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJDiwaniYantu_Regular": {
+    "ttf": "fonts/UKIJDiwaniYantu_Regular/UKIJDiwaniYantu_Regular.ttf",
+    "woff2": "fonts/UKIJDiwaniYantu_Regular/UKIJDiwaniYantu_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Diwani Yantu" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Diwani Yantu:Version 3.00" },
+      "fullName": { "en": "UKIJ Diwani Yantu" },
+      "version": { "en": "Version 3.00 November 8, 2010" },
+      "postScriptName": { "en": "UKIJDiwaniYantu" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Adiljan Abliz (Uchqur) " },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "uqkur@126.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJEkran_Regular": {
+    "ttf": "fonts/UKIJEkran_Regular/UKIJEkran_Regular.ttf",
+    "woff2": "fonts/UKIJEkran_Regular/UKIJEkran_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Ekran" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Ekran:Version 3.00" },
+      "fullName": { "en": "UKIJ Ekran" },
+      "version": { "en": "Version 3.00 December 23, 2010" },
+      "postScriptName": { "en": "UKIJEkran" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursun Sultan" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJElipbe_Bold": {
+    "ttf": "fonts/UKIJElipbe_Bold/UKIJElipbe_Bold.ttf",
+    "woff2": "fonts/UKIJElipbe_Bold/UKIJElipbe_Bold.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Elipbe" },
+      "fontSubfamily": { "en": "Bold" },
+      "uniqueID": { "en": "UKIJ Elipbe Bold:Version 3.00" },
+      "fullName": { "en": "UKIJ Elipbe Bold" },
+      "version": { "en": "Version 3.00 November 16, 2010" },
+      "postScriptName": { "en": "UKIJElipbe-Bold" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursun Sultan" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJElipbe_Regular": {
+    "ttf": "fonts/UKIJElipbe_Regular/UKIJElipbe_Regular.ttf",
+    "woff2": "fonts/UKIJElipbe_Regular/UKIJElipbe_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Elipbe" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Elipbe:Version 3.00" },
+      "fullName": { "en": "UKIJ Elipbe" },
+      "version": { "en": "Version 3.00 November 16, 2010" },
+      "postScriptName": { "en": "UKIJElipbe" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursun Sultan" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJElipbeChekitlik_Bold": {
+    "ttf": "fonts/UKIJElipbeChekitlik_Bold/UKIJElipbeChekitlik_Bold.ttf",
+    "woff2": "fonts/UKIJElipbeChekitlik_Bold/UKIJElipbeChekitlik_Bold.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Elipbe_Chekitlik" },
+      "fontSubfamily": { "en": "Bold" },
+      "uniqueID": { "en": "UKIJ Elipbe_Chekitlik Bold:Version 3.00" },
+      "fullName": { "en": "UKIJ Elipbe_Chekitlik Bold" },
+      "version": { "en": "Version 3.00 November 16, 2010" },
+      "postScriptName": { "en": "UKIJElipbe_Chekitlik-Bold" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursun Sultan" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJElipbeChekitlik_Regular": {
+    "ttf": "fonts/UKIJElipbeChekitlik_Regular/UKIJElipbeChekitlik_Regular.ttf",
+    "woff2": "fonts/UKIJElipbeChekitlik_Regular/UKIJElipbeChekitlik_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Elipbe_Chekitlik" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Elipbe_Chekitlik:Version 3.00" },
+      "fullName": { "en": "UKIJ Elipbe_Chekitlik" },
+      "version": { "en": "Version 3.00 November 16, 2010" },
+      "postScriptName": { "en": "UKIJElipbe_Chekitlik" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursun Sultan" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJEsliye_Regular": {
+    "ttf": "fonts/UKIJEsliye_Regular/UKIJEsliye_Regular.ttf",
+    "woff2": "fonts/UKIJEsliye_Regular/UKIJEsliye_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Esliye" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Esliye:Version 3.00" },
+      "fullName": { "en": "UKIJ Esliye" },
+      "version": { "en": "Version 3.00 November 8, 2010" },
+      "postScriptName": { "en": "UKIJEsliye" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Turghun (Bilge), Adiljan Abliz (Uchqur)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "uqkur@126.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJEsliye_Bold": {
+    "ttf": "fonts/UKIJEsliye_Bold/UKIJEsliye_Bold.ttf",
+    "woff2": "fonts/UKIJEsliye_Bold/UKIJEsliye_Bold.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Esliye" },
+      "fontSubfamily": { "en": "Bold" },
+      "uniqueID": { "en": "UKIJ Esliye Bold:Version 3.00" },
+      "fullName": { "en": "UKIJ Esliye Bold" },
+      "version": { "en": "Version 3.00 December 19, 2010" },
+      "postScriptName": { "en": "UKIJEsliye-Bold" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursunjan Sultan (alp)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJEsliyeChiwer_Regular": {
+    "ttf": "fonts/UKIJEsliyeChiwer_Regular/UKIJEsliyeChiwer_Regular.ttf",
+    "woff2": "fonts/UKIJEsliyeChiwer_Regular/UKIJEsliyeChiwer_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Esliye Chiwer" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Esliye Chiwer:Version 3.00" },
+      "fullName": { "en": "UKIJ Esliye Chiwer" },
+      "version": { "en": "Version 3.00 November 4, 2010" },
+      "postScriptName": { "en": "UKIJEsliyeChiwer" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Xotan, Chiwer Qol" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" },
+      "designerURL": { "en": "alplar@hotmail.com" }
+    }
+  },
+  "UKIJEsliyeNeqish_Regular": {
+    "ttf": "fonts/UKIJEsliyeNeqish_Regular/UKIJEsliyeNeqish_Regular.ttf",
+    "woff2": "fonts/UKIJEsliyeNeqish_Regular/UKIJEsliyeNeqish_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Esliye Neqish" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Esliye Neqish:Version 3.00" },
+      "fullName": { "en": "UKIJ Esliye Neqish" },
+      "version": { "en": "Version 3.00 December 19, 2010" },
+      "postScriptName": { "en": "UKIJEsliyeNeqish" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Adiljan Abliz (Uchqur)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "uqkur@126.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJEsliyeQara_Regular": {
+    "ttf": "fonts/UKIJEsliyeQara_Regular/UKIJEsliyeQara_Regular.ttf",
+    "woff2": "fonts/UKIJEsliyeQara_Regular/UKIJEsliyeQara_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Esliye Qara" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Esliye Qara:Version 3.00" },
+      "fullName": { "en": "UKIJ Esliye Qara" },
+      "version": { "en": "Version 3.00 November 8, 2010" },
+      "postScriptName": { "en": "UKIJEsliyeQara" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Adiljan Abliz (Uchqur)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "uqkur@126.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJEsliyeTom_Regular": {
+    "ttf": "fonts/UKIJEsliyeTom_Regular/UKIJEsliyeTom_Regular.ttf",
+    "woff2": "fonts/UKIJEsliyeTom_Regular/UKIJEsliyeTom_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Esliye Tom" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Esliye Tom:Version 3.00" },
+      "fullName": { "en": "UKIJ Esliye Tom" },
+      "version": { "en": "Version 3.00 November 10, 2010" },
+      "postScriptName": { "en": "UKIJEsliyeTom" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursunjan Sultan (alp)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJImaret_Regular": {
+    "ttf": "fonts/UKIJImaret_Regular/UKIJImaret_Regular.ttf",
+    "woff2": "fonts/UKIJImaret_Regular/UKIJImaret_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Imaret" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Imaret:Version 3.00" },
+      "fullName": { "en": "UKIJ Imaret" },
+      "version": { "en": "Version 3.00 November 10, 2010" },
+      "postScriptName": { "en": "UKIJImaret" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Turghun (Bilge), Adiljan Abliz (Uchqur)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "uqkur@126.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJInchike_Regular": {
+    "ttf": "fonts/UKIJInchike_Regular/UKIJInchike_Regular.ttf",
+    "woff2": "fonts/UKIJInchike_Regular/UKIJInchike_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Inchike" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Inchike:Version 3.00" },
+      "fullName": { "en": "UKIJ Inchike" },
+      "version": { "en": "Version 3.00 December 23, 2010" },
+      "postScriptName": { "en": "UKIJInchike" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJInchike_Bold": {
+    "ttf": "fonts/UKIJInchike_Bold/UKIJInchike_Bold.ttf",
+    "woff2": "fonts/UKIJInchike_Bold/UKIJInchike_Bold.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Inchike" },
+      "fontSubfamily": { "en": "Bold" },
+      "uniqueID": { "en": "UKIJ Inchike Bold:Version 3.00" },
+      "fullName": { "en": "UKIJ Inchike Bold" },
+      "version": { "en": "Version 3.00 December 23, 2010" },
+      "postScriptName": { "en": "UKIJInchike-Bold" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJJelliy_Regular": {
+    "ttf": "fonts/UKIJJelliy_Regular/UKIJJelliy_Regular.ttf",
+    "woff2": "fonts/UKIJJelliy_Regular/UKIJJelliy_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Jelliy" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Jelliy:Version 3.00" },
+      "fullName": { "en": "UKIJ Jelliy" },
+      "version": { "en": "Version 3.00 November 10, 2010" },
+      "postScriptName": { "en": "UKIJJelliy" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Adiljan Abliz (Uchqur)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "uqkur@126.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJJunun_Regular": {
+    "ttf": "fonts/UKIJJunun_Regular/UKIJJunun_Regular.ttf",
+    "woff2": "fonts/UKIJJunun_Regular/UKIJJunun_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Junun" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Junun:Version 3.00" },
+      "fullName": { "en": "UKIJ Junun" },
+      "version": { "en": "Version 3.00 November 10, 2010" },
+      "postScriptName": { "en": "UKIJJunun" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "I.N.Elnuri" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJKawak_Regular": {
+    "ttf": "fonts/UKIJKawak_Regular/UKIJKawak_Regular.ttf",
+    "woff2": "fonts/UKIJKawak_Regular/UKIJKawak_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Kawak" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Kawak:Version 3.00" },
+      "fullName": { "en": "UKIJ Kawak" },
+      "version": { "en": "Version 3.00 November 10, 2010" },
+      "postScriptName": { "en": "UKIJKawak" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Adiljan Abliz (Uchqur)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "uqkur@126.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJKawak3D_Bold": {
+    "ttf": "fonts/UKIJKawak3D_Bold/UKIJKawak3D_Bold.ttf",
+    "woff2": "fonts/UKIJKawak3D_Bold/UKIJKawak3D_Bold.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Kawak 3D" },
+      "fontSubfamily": { "en": "Bold" },
+      "uniqueID": { "en": "UKIJ Kawak 3D Bold:Version 3.00" },
+      "fullName": { "en": "UKIJ Kawak 3D Bold" },
+      "version": { "en": "Version 3.00 November 13, 2010" },
+      "postScriptName": { "en": "UKIJKawak3D-Bold" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursunjan Sultan (alp)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJKawak3D_Regular": {
+    "ttf": "fonts/UKIJKawak3D_Regular/UKIJKawak3D_Regular.ttf",
+    "woff2": "fonts/UKIJKawak3D_Regular/UKIJKawak3D_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Kawak 3D" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Kawak 3D:Version 3.00" },
+      "fullName": { "en": "UKIJ Kawak 3D" },
+      "version": { "en": "Version 3.00 November 13, 2010" },
+      "postScriptName": { "en": "UKIJKawak3D" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursunjan Sultan (alp)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJKesme_Bold": {
+    "ttf": "fonts/UKIJKesme_Bold/UKIJKesme_Bold.ttf",
+    "woff2": "fonts/UKIJKesme_Bold/UKIJKesme_Bold.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Kesme" },
+      "fontSubfamily": { "en": "Bold" },
+      "uniqueID": { "en": "UKIJ Kesme Bold:Version 3.00" },
+      "fullName": { "en": "UKIJ Kesme Bold" },
+      "version": { "en": "Version 3.00 November 2, 2010" },
+      "postScriptName": { "en": "UKIJKesme-Bold" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursun Sultan" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJKesme_Regular": {
+    "ttf": "fonts/UKIJKesme_Regular/UKIJKesme_Regular.ttf",
+    "woff2": "fonts/UKIJKesme_Regular/UKIJKesme_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Kesme" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Kesme:Version 3.00" },
+      "fullName": { "en": "UKIJ Kesme" },
+      "version": { "en": "Version 3.00 November 2, 2010" },
+      "postScriptName": { "en": "UKIJKesme" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursun Sultan" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJKesmeTuz_Bold": {
+    "ttf": "fonts/UKIJKesmeTuz_Bold/UKIJKesmeTuz_Bold.ttf",
+    "woff2": "fonts/UKIJKesmeTuz_Bold/UKIJKesmeTuz_Bold.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Kesme Tuz" },
+      "fontSubfamily": { "en": "Bold" },
+      "uniqueID": { "en": "UKIJ Kesme Tuz Bold:Version 3.00" },
+      "fullName": { "en": "UKIJ Kesme Tuz Bold" },
+      "version": { "en": "Version 3.00 November 1, 2010" },
+      "postScriptName": { "en": "UKIJKesmeTuz-Bold" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursun Sultan" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJKesmeTuz_Regular": {
+    "ttf": "fonts/UKIJKesmeTuz_Regular/UKIJKesmeTuz_Regular.ttf",
+    "woff2": "fonts/UKIJKesmeTuz_Regular/UKIJKesmeTuz_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Kesme Tuz" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Kesme Tuz:Version 3.00" },
+      "fullName": { "en": "UKIJ Kesme Tuz" },
+      "version": { "en": "Version 3.00 November 10, 2010" },
+      "postScriptName": { "en": "UKIJKesmeTuz" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursun Sultan" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJKufi_Regular": {
+    "ttf": "fonts/UKIJKufi_Regular/UKIJKufi_Regular.ttf",
+    "woff2": "fonts/UKIJKufi_Regular/UKIJKufi_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Kufi" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Kufi:Version 3.00" },
+      "fullName": { "en": "UKIJ Kufi" },
+      "version": { "en": "Version 3.00 November 10, 2010" },
+      "postScriptName": { "en": "UKIJKufi" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Adiljan Abliz (Uchqur)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "uqkur@126.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJKufi3D_Regular": {
+    "ttf": "fonts/UKIJKufi3D_Regular/UKIJKufi3D_Regular.ttf",
+    "woff2": "fonts/UKIJKufi3D_Regular/UKIJKufi3D_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Kufi 3D" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Kufi 3D:Version 3.00" },
+      "fullName": { "en": "UKIJ Kufi 3D" },
+      "version": { "en": "Version 3.00 November 10, 2010" },
+      "postScriptName": { "en": "UKIJKufi3D" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Adiljan Abliz (Uchqur)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "uqkur@126.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJKufiChiwer_Regular": {
+    "ttf": "fonts/UKIJKufiChiwer_Regular/UKIJKufiChiwer_Regular.ttf",
+    "woff2": "fonts/UKIJKufiChiwer_Regular/UKIJKufiChiwer_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Kufi Chiwer" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Kufi Chiwer:Version 3.00" },
+      "fullName": { "en": "UKIJ Kufi Chiwer" },
+      "version": { "en": "Version 3.00 November 11, 2010" },
+      "postScriptName": { "en": "UKIJKufiChiwer" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Xoten Chiwer Qol" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJKufiGul_Regular": {
+    "ttf": "fonts/UKIJKufiGul_Regular/UKIJKufiGul_Regular.ttf",
+    "woff2": "fonts/UKIJKufiGul_Regular/UKIJKufiGul_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Kufi Gul" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Kufi Gul:Version 3.00" },
+      "fullName": { "en": "UKIJ Kufi Gul" },
+      "version": { "en": "Version 3.00 November 11, 2010" },
+      "postScriptName": { "en": "UKIJKufiGul" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursunjan Sultan (alp)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJKufiKawak_Regular": {
+    "ttf": "fonts/UKIJKufiKawak_Regular/UKIJKufiKawak_Regular.ttf",
+    "woff2": "fonts/UKIJKufiKawak_Regular/UKIJKufiKawak_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Kufi Kawak" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Kufi Kawak:Version 3.00" },
+      "fullName": { "en": "UKIJ Kufi Kawak" },
+      "version": { "en": "Version 3.00 November 11, 2010" },
+      "postScriptName": { "en": "UKIJKufiKawak" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursunjan Sultan (alp)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJKufiTar_Regular": {
+    "ttf": "fonts/UKIJKufiTar_Regular/UKIJKufiTar_Regular.ttf",
+    "woff2": "fonts/UKIJKufiTar_Regular/UKIJKufiTar_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Kufi Tar" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Kufi Tar:Version 3.00" },
+      "fullName": { "en": "UKIJ Kufi Tar" },
+      "version": { "en": "Version 3.00 November 11, 2010" },
+      "postScriptName": { "en": "UKIJKufiTar" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Adiljan Abliz (Uchqur)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "uqkur@126.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJKufiUz_Regular": {
+    "ttf": "fonts/UKIJKufiUz_Regular/UKIJKufiUz_Regular.ttf",
+    "woff2": "fonts/UKIJKufiUz_Regular/UKIJKufiUz_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Kufi Uz" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Kufi Uz:Version 3.00" },
+      "fullName": { "en": "UKIJ Kufi Uz" },
+      "version": { "en": "Version 3.00 November 11, 2010" },
+      "postScriptName": { "en": "UKIJKufiUz" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Adiljan Abliz (Uchqur)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "uqkur@126.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJKufiYay_Regular": {
+    "ttf": "fonts/UKIJKufiYay_Regular/UKIJKufiYay_Regular.ttf",
+    "woff2": "fonts/UKIJKufiYay_Regular/UKIJKufiYay_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Kufi Yay" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Kufi Yay:Version 3.00" },
+      "fullName": { "en": "UKIJ Kufi Yay" },
+      "version": { "en": "Version 3.00 November 11, 2010" },
+      "postScriptName": { "en": "UKIJKufiYay" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Adiljan Abliz (Uchqur)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "uqkur@126.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJKufiYay_Bold": {
+    "ttf": "fonts/UKIJKufiYay_Bold/UKIJKufiYay_Bold.ttf",
+    "woff2": "fonts/UKIJKufiYay_Bold/UKIJKufiYay_Bold.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Kufi Yay" },
+      "fontSubfamily": { "en": "Bold" },
+      "uniqueID": { "en": "UKIJ Kufi Yay Bold:Version 3.00" },
+      "fullName": { "en": "UKIJ Kufi Yay Bold" },
+      "version": { "en": "Version 3.00 November 11, 2010" },
+      "postScriptName": { "en": "UKIJKufiYay-Bold" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Adiljan Abliz (Uchqur)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "uqkur@126.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJKufiYolluq_Regular": {
+    "ttf": "fonts/UKIJKufiYolluq_Regular/UKIJKufiYolluq_Regular.ttf",
+    "woff2": "fonts/UKIJKufiYolluq_Regular/UKIJKufiYolluq_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Kufi Yolluq" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Kufi Yolluq:Version 3.00" },
+      "fullName": { "en": "UKIJ Kufi Yolluq" },
+      "version": { "en": "Version 3.00 November 11, 2010" },
+      "postScriptName": { "en": "UKIJKufiYolluq" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursunjan Sultan (alp)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJMerdane_Regular": {
+    "ttf": "fonts/UKIJMerdane_Regular/UKIJMerdane_Regular.ttf",
+    "woff2": "fonts/UKIJMerdane_Regular/UKIJMerdane_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Merdane" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Merdane:Version 3.00" },
+      "fullName": { "en": "UKIJ Merdane" },
+      "version": { "en": "Version 3.00 November 11, 2010" },
+      "postScriptName": { "en": "UKIJMerdane" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Adiljan Abliz (Uchqur)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "uqkur@126.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJMejnuntal_Regular": {
+    "ttf": "fonts/UKIJMejnuntal_Regular/UKIJMejnuntal_Regular.ttf",
+    "woff2": "fonts/UKIJMejnuntal_Regular/UKIJMejnuntal_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Mejnuntal" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Mejnuntal:Version 3.00" },
+      "fullName": { "en": "UKIJ Mejnuntal" },
+      "version": { "en": "Version 3.00 November 11, 2010" },
+      "postScriptName": { "en": "UKIJMejnuntal" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "I.N.Elnuri" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJMejnun_Regular": {
+    "ttf": "fonts/UKIJMejnun_Regular/UKIJMejnun_Regular.ttf",
+    "woff2": "fonts/UKIJMejnun_Regular/UKIJMejnun_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Mejnun" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Mejnun:Version 3.00" },
+      "fullName": { "en": "UKIJ Mejnun" },
+      "version": { "en": "Version 3.00 November 11, 2010" },
+      "postScriptName": { "en": "UKIJMejnun" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "I.N.Elnuri" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJMoyQelem_Regular": {
+    "ttf": "fonts/UKIJMoyQelem_Regular/UKIJMoyQelem_Regular.ttf",
+    "woff2": "fonts/UKIJMoyQelem_Regular/UKIJMoyQelem_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Moy Qelem" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Moy Qelem:Version 3.00" },
+      "fullName": { "en": "UKIJ Moy Qelem" },
+      "version": { "en": "Version 3.00 November 11, 2010" },
+      "postScriptName": { "en": "UKIJMoyQelem" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "I.N.Elnuri" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJNasq_Regular": {
+    "ttf": "fonts/UKIJNasq_Regular/UKIJNasq_Regular.ttf",
+    "woff2": "fonts/UKIJNasq_Regular/UKIJNasq_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Nasq" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Nasq:Version 3.00" },
+      "fullName": { "en": "UKIJ Nasq" },
+      "version": { "en": "Version 3.00 November 2, 2010" },
+      "postScriptName": { "en": "UKIJNasq" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Geyret.T.Kenji" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "gheyret@gmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJNasqZilwa_Regular": {
+    "ttf": "fonts/UKIJNasqZilwa_Regular/UKIJNasqZilwa_Regular.ttf",
+    "woff2": "fonts/UKIJNasqZilwa_Regular/UKIJNasqZilwa_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Nasq Zilwa" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Nasq Zilwa:Version 3.00" },
+      "fullName": { "en": "UKIJ Nasq Zilwa" },
+      "version": { "en": "Version 3.00 November 11, 2010" },
+      "postScriptName": { "en": "UKIJNasqZilwa" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursunjan Sultan (alp)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJNasqZilwa_Bold": {
+    "ttf": "fonts/UKIJNasqZilwa_Bold/UKIJNasqZilwa_Bold.ttf",
+    "woff2": "fonts/UKIJNasqZilwa_Bold/UKIJNasqZilwa_Bold.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Nasq Zilwa" },
+      "fontSubfamily": { "en": "Bold" },
+      "uniqueID": { "en": "UKIJ Nasq Zilwa Bold:Version 3.00" },
+      "fullName": { "en": "UKIJ Nasq Zilwa Bold" },
+      "version": { "en": "Version 3.00 November 12, 2010" },
+      "postScriptName": { "en": "UKIJNasqZilwa-Bold" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursunjan Sultan (alp)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJNasq_Bold": {
+    "ttf": "fonts/UKIJNasq_Bold/UKIJNasq_Bold.ttf",
+    "woff2": "fonts/UKIJNasq_Bold/UKIJNasq_Bold.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Nasq" },
+      "fontSubfamily": { "en": "Bold" },
+      "uniqueID": { "en": "UKIJ Nasq Bold:Version 3.00" },
+      "fullName": { "en": "UKIJ Nasq Bold" },
+      "version": { "en": "Version 3.00 November 2, 2010" },
+      "postScriptName": { "en": "UKIJNasq-Bold" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Geyret.T.Kenji" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "gheyret@gmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJOrqunBasma_Regular": {
+    "ttf": "fonts/UKIJOrqunBasma_Regular/UKIJOrqunBasma_Regular.ttf",
+    "woff2": "fonts/UKIJOrqunBasma_Regular/UKIJOrqunBasma_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Orqun Basma" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Orqun Basma:Version 3.00" },
+      "fullName": { "en": "UKIJ Orqun Basma" },
+      "version": { "en": "Version 3.00 November 4, 2010" },
+      "postScriptName": { "en": "UKIJOrqunBasma" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursun Sultan" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJOrqunYazma_Regular": {
+    "ttf": "fonts/UKIJOrqunYazma_Regular/UKIJOrqunYazma_Regular.ttf",
+    "woff2": "fonts/UKIJOrqunYazma_Regular/UKIJOrqunYazma_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Orqun Yazma" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Orqun Yazma:Version 3.00" },
+      "fullName": { "en": "UKIJ Orqun Yazma" },
+      "version": { "en": "Version 3.00 November 4, 2010" },
+      "postScriptName": { "en": "UKIJOrqunYazma" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursun Sultan" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJOrxunYensey_Regular": {
+    "ttf": "fonts/UKIJOrxunYensey_Regular/UKIJOrxunYensey_Regular.ttf",
+    "woff2": "fonts/UKIJOrxunYensey_Regular/UKIJOrxunYensey_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Orxun-Yensey" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Orxun-Yensey:Version 3.00" },
+      "fullName": { "en": "UKIJ Orxun-Yensey" },
+      "version": { "en": "Version 3.00 November 11, 2010" },
+      "postScriptName": { "en": "UKIJOrxun-Yensey" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursunjan Sultan (alp)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJQara_Bold": {
+    "ttf": "fonts/UKIJQara_Bold/UKIJQara_Bold.ttf",
+    "woff2": "fonts/UKIJQara_Bold/UKIJQara_Bold.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Qara" },
+      "fontSubfamily": { "en": "Bold" },
+      "uniqueID": { "en": "UKIJ Qara Bold:Version 3.00" },
+      "fullName": { "en": "UKIJ Qara Bold" },
+      "version": { "en": "Version 3.00 November 3, 2010" },
+      "postScriptName": { "en": "UKIJQara-Bold" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursun Sultan" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJQara_Regular": {
+    "ttf": "fonts/UKIJQara_Regular/UKIJQara_Regular.ttf",
+    "woff2": "fonts/UKIJQara_Regular/UKIJQara_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Qara" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Qara:Version 3.00" },
+      "fullName": { "en": "UKIJ Qara" },
+      "version": { "en": "Version 3.00 November 3, 2010" },
+      "postScriptName": { "en": "UKIJQara" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursun Sultan" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJQolyazmaTez_Regular": {
+    "ttf": "fonts/UKIJQolyazmaTez_Regular/UKIJQolyazmaTez_Regular.ttf",
+    "woff2": "fonts/UKIJQolyazmaTez_Regular/UKIJQolyazmaTez_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Qolyazma Tez" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Qolyazma Tez:Version 3.00" },
+      "fullName": { "en": "UKIJ Qolyazma Tez" },
+      "version": { "en": "Version 3.00 November 13, 2010" },
+      "postScriptName": { "en": "UKIJQolyazmaTez" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursun Sultan" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJQolyazmaTuz_Regular": {
+    "ttf": "fonts/UKIJQolyazmaTuz_Regular/UKIJQolyazmaTuz_Regular.ttf",
+    "woff2": "fonts/UKIJQolyazmaTuz_Regular/UKIJQolyazmaTuz_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Qolyazma Tuz" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Qolyazma Tuz:Version 3.00" },
+      "fullName": { "en": "UKIJ Qolyazma Tuz" },
+      "version": { "en": "Version 3.00 November 4, 2010" },
+      "postScriptName": { "en": "UKIJQolyazmaTuz" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursun Sultan" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJQolyazmaYantu_Regular": {
+    "ttf": "fonts/UKIJQolyazmaYantu_Regular/UKIJQolyazmaYantu_Regular.ttf",
+    "woff2": "fonts/UKIJQolyazmaYantu_Regular/UKIJQolyazmaYantu_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Qolyazma Yantu" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Qolyazma Yantu:Version 3.00" },
+      "fullName": { "en": "UKIJ Qolyazma Yantu" },
+      "version": { "en": "Version 3.00 November 4, 2010" },
+      "postScriptName": { "en": "UKIJQolyazmaYantu" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursun Sultan" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJQolyazma_Regular": {
+    "ttf": "fonts/UKIJQolyazma_Regular/UKIJQolyazma_Regular.ttf",
+    "woff2": "fonts/UKIJQolyazma_Regular/UKIJQolyazma_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Qolyazma" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Qolyazma:Version 3.00" },
+      "fullName": { "en": "UKIJ Qolyazma" },
+      "version": { "en": "Version 3.00 November 11, 2010" },
+      "postScriptName": { "en": "UKIJQolyazma" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Adiljan Abliz (Uchqur)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "uqkur@126.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJRuqi_Regular": {
+    "ttf": "fonts/UKIJRuqi_Regular/UKIJRuqi_Regular.ttf",
+    "woff2": "fonts/UKIJRuqi_Regular/UKIJRuqi_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Ruqi" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Ruqi:Version 3.00" },
+      "fullName": { "en": "UKIJ Ruqi" },
+      "version": { "en": "Version 3.00 November 8, 2010" },
+      "postScriptName": { "en": "UKIJRuqi" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Ailm Ahat; Xoten Chiwer Qol" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "Http://www.uighursoft.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJSaet_Regular": {
+    "ttf": "fonts/UKIJSaet_Regular/UKIJSaet_Regular.ttf",
+    "woff2": "fonts/UKIJSaet_Regular/UKIJSaet_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Saet" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Saet:Version 3.00" },
+      "fullName": { "en": "UKIJ Saet" },
+      "version": { "en": "Version 3.00 November 11, 2010" },
+      "postScriptName": { "en": "UKIJSaet" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "I.N.Elnuri" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJSulus_Regular": {
+    "ttf": "fonts/UKIJSulus_Regular/UKIJSulus_Regular.ttf",
+    "woff2": "fonts/UKIJSulus_Regular/UKIJSulus_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Sulus" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Sulus:Version 3.00" },
+      "fullName": { "en": "UKIJ Sulus" },
+      "version": { "en": "Version 3.00 November 8, 2010" },
+      "postScriptName": { "en": "UKIJSulus" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Geyret.T.Kenji" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "gheyret@gmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJSulus_Bold": {
+    "ttf": "fonts/UKIJSulus_Bold/UKIJSulus_Bold.ttf",
+    "woff2": "fonts/UKIJSulus_Bold/UKIJSulus_Bold.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Sulus" },
+      "fontSubfamily": { "en": "Bold" },
+      "uniqueID": { "en": "UKIJ Sulus Bold:Version 3.00" },
+      "fullName": { "en": "UKIJ Sulus Bold" },
+      "version": { "en": "Version 3.00 November 12, 2010" },
+      "postScriptName": { "en": "UKIJSulus-Bold" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursunjan Sultan (alp)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJSulusTom_Regular": {
+    "ttf": "fonts/UKIJSulusTom_Regular/UKIJSulusTom_Regular.ttf",
+    "woff2": "fonts/UKIJSulusTom_Regular/UKIJSulusTom_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Sulus Tom" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Sulus Tom:Version 3.00" },
+      "fullName": { "en": "UKIJ Sulus Tom" },
+      "version": { "en": "Version 3.00 November 3, 2010" },
+      "postScriptName": { "en": "UKIJSulusTom" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursunjan Sultan (alp)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJTeng_Bold": {
+    "ttf": "fonts/UKIJTeng_Bold/UKIJTeng_Bold.ttf",
+    "woff2": "fonts/UKIJTeng_Bold/UKIJTeng_Bold.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Teng" },
+      "fontSubfamily": { "en": "Bold" },
+      "uniqueID": { "en": "UKIJ Teng Bold:Version 3.00" },
+      "fullName": { "en": "UKIJ Teng Bold" },
+      "version": { "en": "Version 3.00 November 1, 2010" },
+      "postScriptName": { "en": "UKIJTeng-Bold" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursun Sultan" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJTeng_Regular": {
+    "ttf": "fonts/UKIJTeng_Regular/UKIJTeng_Regular.ttf",
+    "woff2": "fonts/UKIJTeng_Regular/UKIJTeng_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Teng" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Teng:Version 3.00" },
+      "fullName": { "en": "UKIJ Teng" },
+      "version": { "en": "Version 3.00 October 16, 2010" },
+      "postScriptName": { "en": "UKIJTeng" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursun Sultan" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJTiken_Regular": {
+    "ttf": "fonts/UKIJTiken_Regular/UKIJTiken_Regular.ttf",
+    "woff2": "fonts/UKIJTiken_Regular/UKIJTiken_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Tiken" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Tiken:Version 3.00" },
+      "fullName": { "en": "UKIJ Tiken" },
+      "version": { "en": "Version 3.00 November 13, 2010" },
+      "postScriptName": { "en": "UKIJTiken" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursun Sultan" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJTitle_Regular": {
+    "ttf": "fonts/UKIJTitle_Regular/UKIJTitle_Regular.ttf",
+    "woff2": "fonts/UKIJTitle_Regular/UKIJTitle_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Title" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Title:Version 3.00" },
+      "fullName": { "en": "UKIJ Title" },
+      "version": { "en": "Version 3.00 November 13, 2010" },
+      "postScriptName": { "en": "UKIJTitle" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursun Sultan" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJTor_Regular": {
+    "ttf": "fonts/UKIJTor_Regular/UKIJTor_Regular.ttf",
+    "woff2": "fonts/UKIJTor_Regular/UKIJTor_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Tor" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Tor:Version 3.00" },
+      "fullName": { "en": "UKIJ Tor" },
+      "version": { "en": "Version 3.00 December 23, 2010" },
+      "postScriptName": { "en": "UKIJTor" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursun Sultan" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJTuzTom_Regular": {
+    "ttf": "fonts/UKIJTuzTom_Regular/UKIJTuzTom_Regular.ttf",
+    "woff2": "fonts/UKIJTuzTom_Regular/UKIJTuzTom_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Tuz Tom" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Tuz Tom:Version 3.00" },
+      "fullName": { "en": "UKIJ Tuz Tom" },
+      "version": { "en": "Version 3.00 December 23, 2010" },
+      "postScriptName": { "en": "UKIJTuzTom" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursun Sultan" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJTughra_Regular": {
+    "ttf": "fonts/UKIJTughra_Regular/UKIJTughra_Regular.ttf",
+    "woff2": "fonts/UKIJTughra_Regular/UKIJTughra_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Tughra" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Tughra:Version 3.00" },
+      "fullName": { "en": "UKIJ Tughra" },
+      "version": { "en": "Version 3.00 November 7, 2010" },
+      "postScriptName": { "en": "UKIJTughra" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursunjan Sultan (alp)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJTuz_Regular": {
+    "ttf": "fonts/UKIJTuz_Regular/UKIJTuz_Regular.ttf",
+    "woff2": "fonts/UKIJTuz_Regular/UKIJTuz_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Tuz" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Tuz:Version 3.00" },
+      "fullName": { "en": "UKIJ Tuz" },
+      "version": { "en": "Version 3.00 November 2, 2010" },
+      "postScriptName": { "en": "UKIJTuz" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Waris ABDUKERIM JANBAZ" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "oyghan@gmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJTuzBasma_Regular": {
+    "ttf": "fonts/UKIJTuzBasma_Regular/UKIJTuzBasma_Regular.ttf",
+    "woff2": "fonts/UKIJTuzBasma_Regular/UKIJTuzBasma_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Tuz Basma" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Tuz Basma:Version 3.00" },
+      "fullName": { "en": "UKIJ Tuz Basma" },
+      "version": { "en": "Version 3.00 November 2, 2010" },
+      "postScriptName": { "en": "UKIJTuzBasma" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursunjan Sultan (alp)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJTuzBasma_Bold": {
+    "ttf": "fonts/UKIJTuzBasma_Bold/UKIJTuzBasma_Bold.ttf",
+    "woff2": "fonts/UKIJTuzBasma_Bold/UKIJTuzBasma_Bold.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Tuz Basma" },
+      "fontSubfamily": { "en": "Bold" },
+      "uniqueID": { "en": "UKIJ Tuz Basma Bold:Version 3.00" },
+      "fullName": { "en": "UKIJ Tuz Basma Bold" },
+      "version": { "en": "Version 3.00 November 2, 2010" },
+      "postScriptName": { "en": "UKIJTuzBasma-Bold" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursunjan Sultan (alp)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJTuz_Bold": {
+    "ttf": "fonts/UKIJTuz_Bold/UKIJTuz_Bold.ttf",
+    "woff2": "fonts/UKIJTuz_Bold/UKIJTuz_Bold.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Tuz" },
+      "fontSubfamily": { "en": "Bold" },
+      "uniqueID": { "en": "UKIJ Tuz Bold:Version 3.00" },
+      "fullName": { "en": "UKIJ Tuz Bold" },
+      "version": { "en": "Version 3.00 November 4, 2010" },
+      "postScriptName": { "en": "UKIJTuz-Bold" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursun Sultan (alp)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJTuzGezit_Regular": {
+    "ttf": "fonts/UKIJTuzGezit_Regular/UKIJTuzGezit_Regular.ttf",
+    "woff2": "fonts/UKIJTuzGezit_Regular/UKIJTuzGezit_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Tuz Gezit" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Tuz Gezit:Version 3.00" },
+      "fullName": { "en": "UKIJ Tuz Gezit" },
+      "version": { "en": "Version 3.00 November 4, 2010" },
+      "postScriptName": { "en": "UKIJTuzGezit" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursunjan Sultan (alp)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJTuzGezit_Bold": {
+    "ttf": "fonts/UKIJTuzGezit_Bold/UKIJTuzGezit_Bold.ttf",
+    "woff2": "fonts/UKIJTuzGezit_Bold/UKIJTuzGezit_Bold.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Tuz Gezit" },
+      "fontSubfamily": { "en": "Bold" },
+      "uniqueID": { "en": "UKIJ Tuz Gezit Bold:Version 3.00" },
+      "fullName": { "en": "UKIJ Tuz Gezit Bold" },
+      "version": { "en": "Version 3.00 November 4, 2010" },
+      "postScriptName": { "en": "UKIJTuzGezit-Bold" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Adiljan Abliz (Uchqur)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "uqkur@126.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJTuzKitab_Regular": {
+    "ttf": "fonts/UKIJTuzKitab_Regular/UKIJTuzKitab_Regular.ttf",
+    "woff2": "fonts/UKIJTuzKitab_Regular/UKIJTuzKitab_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Tuz Kitab" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Tuz Kitab:Version 3.00" },
+      "fullName": { "en": "UKIJ Tuz Kitab" },
+      "version": { "en": "Version 3.00 November 4, 2010" },
+      "postScriptName": { "en": "UKIJTuzKitab" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursunjan Sultan (alp)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJTuzKitab_Bold": {
+    "ttf": "fonts/UKIJTuzKitab_Bold/UKIJTuzKitab_Bold.ttf",
+    "woff2": "fonts/UKIJTuzKitab_Bold/UKIJTuzKitab_Bold.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Tuz Kitab" },
+      "fontSubfamily": { "en": "Bold" },
+      "uniqueID": { "en": "UKIJ Tuz Kitab Bold:Version 3.00" },
+      "fullName": { "en": "UKIJ Tuz Kitab Bold" },
+      "version": { "en": "Version 3.00 November 4, 2010" },
+      "postScriptName": { "en": "UKIJTuzKitab-Bold" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursunjan Sultan (alp)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJTuzQara_Regular": {
+    "ttf": "fonts/UKIJTuzQara_Regular/UKIJTuzQara_Regular.ttf",
+    "woff2": "fonts/UKIJTuzQara_Regular/UKIJTuzQara_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Tuz Qara" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Tuz Qara:Version 3.00" },
+      "fullName": { "en": "UKIJ Tuz Qara" },
+      "version": { "en": "Version 3.00 November 12, 2010" },
+      "postScriptName": { "en": "UKIJTuzQara" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Adiljan Abliz (Uchqur)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "uqkur@126.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJTuzQara_Bold": {
+    "ttf": "fonts/UKIJTuzQara_Bold/UKIJTuzQara_Bold.ttf",
+    "woff2": "fonts/UKIJTuzQara_Bold/UKIJTuzQara_Bold.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Tuz Qara" },
+      "fontSubfamily": { "en": "Bold" },
+      "uniqueID": { "en": "UKIJ Tuz Qara Bold:Version 3.00" },
+      "fullName": { "en": "UKIJ Tuz Qara Bold" },
+      "version": { "en": "Version 3.00 November 11, 2010" },
+      "postScriptName": { "en": "UKIJTuzQara-Bold" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursunjan Sultan (alp)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJTuzNeqish_Regular": {
+    "ttf": "fonts/UKIJTuzNeqish_Regular/UKIJTuzNeqish_Regular.ttf",
+    "woff2": "fonts/UKIJTuzNeqish_Regular/UKIJTuzNeqish_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Tuz Neqish" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Tuz Neqish:Version 3.00" },
+      "fullName": { "en": "UKIJ Tuz Neqish" },
+      "version": { "en": "Version 3.00 November 11, 2010" },
+      "postScriptName": { "en": "UKIJTuzNeqish" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "I.N.Elnuri" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJTuzTor_Regular": {
+    "ttf": "fonts/UKIJTuzTor_Regular/UKIJTuzTor_Regular.ttf",
+    "woff2": "fonts/UKIJTuzTor_Regular/UKIJTuzTor_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Tuz Tor" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Tuz Tor:Version 3.00" },
+      "fullName": { "en": "UKIJ Tuz Tor" },
+      "version": { "en": "Version 3.00 November 12, 2010" },
+      "postScriptName": { "en": "UKIJTuzTor" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Exmetjan Rejep" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "idikhut@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJTuzTor_Bold": {
+    "ttf": "fonts/UKIJTuzTor_Bold/UKIJTuzTor_Bold.ttf",
+    "woff2": "fonts/UKIJTuzTor_Bold/UKIJTuzTor_Bold.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Tuz Tor" },
+      "fontSubfamily": { "en": "Bold" },
+      "uniqueID": { "en": "UKIJ Tuz Tor Bold:Version 3.00" },
+      "fullName": { "en": "UKIJ Tuz Tor Bold" },
+      "version": { "en": "Version 3.00 November 12, 2010" },
+      "postScriptName": { "en": "UKIJTuzTor-Bold" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursunjan Sultan (alp)" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJZilwa_Regular": {
+    "ttf": "fonts/UKIJZilwa_Regular/UKIJZilwa_Regular.ttf",
+    "woff2": "fonts/UKIJZilwa_Regular/UKIJZilwa_Regular.woff2",
+    "nameing_table": {
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ Zilwa" },
+      "fontSubfamily": { "en": "Regular" },
+      "uniqueID": { "en": "UKIJ Zilwa:Version 3.00" },
+      "fullName": { "en": "UKIJ Zilwa" },
+      "version": { "en": "Version 3.00 November 8, 2010" },
+      "postScriptName": { "en": "UKIJZilwa" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": {
+        "en": "Alim Ahat, Memtimin (Alyar), Abdureshit (Qarlighach), Adiljan Abliz (Uchqur)"
+      },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "Http://www.uighursoft.com, http://www.bilik.cn" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJMacBasma_Regular": {
+    "ttf": "fonts/UKIJMacBasma_Regular/UKIJMacBasma_Regular.ttf",
+    "woff2": "fonts/UKIJMacBasma_Regular/UKIJMacBasma_Regular.woff2",
+    "nameing_table": {
+      "256": { "en": "No Change" },
+      "257": { "en": "Cursive Connections" },
+      "258": { "en": "Connected Letters" },
+      "259": { "en": "Arabic Decimal Point" },
+      "260": { "en": "Period To Comma" },
+      "261": { "en": "Ligatures" },
+      "262": { "en": "Required Ligatures" },
+      "263": { "en": "Optional Ligatures" },
+      "264": { "en": "Accent Ligatures" },
+      "265": { "en": "Tuck in Tails" },
+      "266": { "en": "Tucked In" },
+      "267": { "en": "Tucked In More" },
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ_Mac Basma" },
+      "fontSubfamily": {
+        "en": "Regular",
+        "zh-TW": "標準體",
+        "da": "Ordinær",
+        "de": "Normal",
+        "fi": "Normaali",
+        "fr": "Normal",
+        "it": "Regolare",
+        "ja": "レギュラー",
+        "ko": "일반체",
+        "nl": "Regulier",
+        "nb": "Normal",
+        "pt": "Normal",
+        "ru": "Обычный",
+        "sv": "Normal",
+        "zh": "常规体",
+        "es": "Normal"
+      },
+      "uniqueID": { "en": "UKIJ_Mac Basma; 1.0.12; 2010-11-17" },
+      "fullName": { "en": "UKIJ_Mac Basma" },
+      "version": { "en": "1.0.12" },
+      "postScriptName": { "en": "UKIJ_MacBasma" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursun Sultan" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJMacBasma_Bold": {
+    "ttf": "fonts/UKIJMacBasma_Bold/UKIJMacBasma_Bold.ttf",
+    "woff2": "fonts/UKIJMacBasma_Bold/UKIJMacBasma_Bold.woff2",
+    "nameing_table": {
+      "256": { "en": "No Change" },
+      "257": { "en": "Cursive Connections" },
+      "258": { "en": "Connected Letters" },
+      "259": { "en": "Arabic Decimal Point" },
+      "260": { "en": "Period To Comma" },
+      "261": { "en": "Ligatures" },
+      "262": { "en": "Required Ligatures" },
+      "263": { "en": "Optional Ligatures" },
+      "264": { "en": "Accent Ligatures" },
+      "265": { "en": "Tuck in Tails" },
+      "266": { "en": "Tucked In" },
+      "267": { "en": "Tucked In More" },
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ_Mac Basma" },
+      "fontSubfamily": {
+        "en": "Bold",
+        "zh-TW": "粗體",
+        "da": "Fed",
+        "de": "Fett",
+        "fi": "Puolilihava",
+        "fr": "Gras",
+        "it": "Grassetto",
+        "ja": "ボールド",
+        "ko": "볼드체",
+        "nl": "Vet",
+        "nb": "Fet",
+        "pt": "Negrito",
+        "ru": "Жирный",
+        "sv": "Fet",
+        "zh": "粗体",
+        "es": "Negrita"
+      },
+      "uniqueID": { "en": "UKIJ_Mac Basma Bold; 1.0.12; 2010-11-17" },
+      "fullName": { "en": "UKIJ_Mac Basma Bold" },
+      "version": { "en": "1.0.12" },
+      "postScriptName": { "en": "AlpBasma-Bold" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursun Sultan" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJMacEkran_Regular": {
+    "ttf": "fonts/UKIJMacEkran_Regular/UKIJMacEkran_Regular.ttf",
+    "woff2": "fonts/UKIJMacEkran_Regular/UKIJMacEkran_Regular.woff2",
+    "nameing_table": {
+      "256": { "en": "No Change" },
+      "257": { "en": "Cursive Connections" },
+      "258": { "en": "Connected Letters" },
+      "259": { "en": "Arabic Decimal Point" },
+      "260": { "en": "Period To Comma" },
+      "261": { "en": "Ligatures" },
+      "262": { "en": "Required Ligatures" },
+      "263": { "en": "Optional Ligatures" },
+      "264": { "en": "Accent Ligatures" },
+      "265": { "en": "Tuck in Tails" },
+      "266": { "en": "Tucked In" },
+      "267": { "en": "Tucked In More" },
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ_Mac Ekran" },
+      "fontSubfamily": {
+        "en": "Regular",
+        "zh-TW": "標準體",
+        "da": "Ordinær",
+        "de": "Normal",
+        "fi": "Normaali",
+        "fr": "Normal",
+        "it": "Regolare",
+        "ja": "レギュラー",
+        "ko": "일반체",
+        "nl": "Regulier",
+        "nb": "Normal",
+        "pt": "Normal",
+        "ru": "Обычный",
+        "sv": "Normal",
+        "zh": "常规体",
+        "es": "Normal"
+      },
+      "uniqueID": { "en": "UKIJ_Mac Ekran; 1.0.12; 2010-11-17" },
+      "fullName": { "en": "UKIJ_Mac Ekran" },
+      "version": { "en": "1.0.12" },
+      "postScriptName": { "en": "UKIJ_MacEkran" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursun Sultan" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
+  },
+  "UKIJMacEkran_Bold": {
+    "ttf": "fonts/UKIJMacEkran_Bold/UKIJMacEkran_Bold.ttf",
+    "woff2": "fonts/UKIJMacEkran_Bold/UKIJMacEkran_Bold.woff2",
+    "nameing_table": {
+      "256": { "en": "No Change" },
+      "257": { "en": "Cursive Connections" },
+      "258": { "en": "Connected Letters" },
+      "259": { "en": "Arabic Decimal Point" },
+      "260": { "en": "Period To Comma" },
+      "261": { "en": "Ligatures" },
+      "262": { "en": "Required Ligatures" },
+      "263": { "en": "Optional Ligatures" },
+      "264": { "en": "Accent Ligatures" },
+      "265": { "en": "Tuck in Tails" },
+      "266": { "en": "Tucked In" },
+      "267": { "en": "No Change" },
+      "268": { "en": "Cursive Connections" },
+      "269": { "en": "Connected Letters" },
+      "270": { "en": "Arabic Decimal Point" },
+      "271": { "en": "Period To Comma" },
+      "272": { "en": "Ligatures" },
+      "273": { "en": "Required Ligatures" },
+      "274": { "en": "Optional Ligatures" },
+      "275": { "en": "Accent Ligatures" },
+      "276": { "en": "Tuck in Tails" },
+      "277": { "en": "Tucked In" },
+      "278": { "en": "Tucked In More" },
+      "copyright": {
+        "en": "Uyghur Computer Science Association. Free distributed and all rights reserved. http://www.ukij.org"
+      },
+      "fontFamily": { "en": "UKIJ_Mac Ekran" },
+      "fontSubfamily": {
+        "en": "Bold",
+        "zh-TW": "粗體",
+        "da": "Fed",
+        "de": "Fett",
+        "fi": "Puolilihava",
+        "fr": "Gras",
+        "it": "Grassetto",
+        "ja": "ボールド",
+        "ko": "볼드체",
+        "nl": "Vet",
+        "nb": "Fet",
+        "pt": "Negrito",
+        "ru": "Жирный",
+        "sv": "Fet",
+        "zh": "粗体",
+        "es": "Negrita"
+      },
+      "uniqueID": { "en": "UKIJ_Mac Ekran Bold; 1.0.12; 2010-11-17" },
+      "fullName": { "en": "UKIJ_Mac Ekran Bold" },
+      "version": { "en": "1.0.12" },
+      "postScriptName": { "en": "UKIJ_MacEkran-Bold" },
+      "trademark": { "en": "Uyghur Computer Science Association" },
+      "manufacturer": { "en": "Uyghur Computer Science Association" },
+      "designer": { "en": "Tursun Sultan" },
+      "manufacturerURL": { "en": "Http://www.ukij.org/fonts" },
+      "designerURL": { "en": "alplar@hotmail.com" },
+      "license": { "en": "LGPL" },
+      "licenseURL": { "en": "http://www.gnu.org/licenses/lgpl.html" }
+    }
   }
 }
